@@ -1,0 +1,40 @@
+/* CSS styles for the Welcome section */
+.welcome {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .welcome h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .welcome p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* CSS styles for the button */
+  .b {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .b button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .b button a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .b button:hover {
+    background-color: #333;
+  }
+  
